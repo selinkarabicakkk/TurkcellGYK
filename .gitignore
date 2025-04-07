@@ -1,0 +1,5 @@
+# Jupyter checkpoint klasörleri
+**/.ipynb_checkpoints/
+
+# VSCode ayarları (gerekirse)
+.vscode/
