@@ -116,6 +116,3 @@ _Not: Değerler örnek olarak verilmiştir, gerçek değerler modelin eğitildi�
 
 ---
 
-<p align="center">
-  Sağlıklı günler ve uygun sigorta ücretleri dileriz! 🏥💰
-</p>
