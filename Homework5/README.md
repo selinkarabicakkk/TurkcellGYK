@@ -115,4 +115,7 @@ _Not: Değerler örnek olarak verilmiştir, gerçek değerler modelin eğitildi�
 - **Session State**: Streamlit uygulamasında sayfayı yeniden yükleme sırasında durumu korumak için session state kullanılmıştır
 
 ---
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
